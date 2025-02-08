@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">🌱 A passionate FullStack Developer from India<br>💼 I’m currently a Software Engineer at Cognizant Technologies Solution<br>📫 How to reach me abhinavmahalley22@gmail.com</p>
+<p align="center">🌱 A passionate FullStack Developer from India<br>💼 I’m currently a Software Engineer at Cognizant Technologies Solution<br>📫 How to reach me abhinavmahalley22@gmail.com <br> 
+👨🏻‍💻 Portfolio: <a href="https://abhinavmahalley.netlify.app/" target="_blank">abhinavmahalley.netlify.app</a></p>
 
 ###
 
